@@ -30,7 +30,7 @@ function AboutCard() {
             </div>
             <div xs={7} className="edu_details">
               <p style={{ textAlign: "justify" }}>
-                Foothill College (2013 - 2017) <br />
+                Foothill College (2013 - 2015) <br />
                 <span className="purple">
                   University transferable course, GPA 3.8/4
                 </span>
