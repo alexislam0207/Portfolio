@@ -11,10 +11,8 @@ function Footer() {
           <a
             href="https://github.com/soumyajit4419"
             style={{ color: "white" }}
-            target="_blank"
-            rel="noopener noreferrer"
           >
-            <h3>Copyright © {year} Soumyajit Behera</h3>
+            Copyright © {year} Soumyajit Behera
           </a>
         </Col>
       </Row>

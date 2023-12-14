@@ -25,7 +25,7 @@ function Projects() {
               description="A back-end news application created with SQL, PSQL, Express, Jest, Supertest, and Javascript. Users
               can access and amend data about topics, articles, comments, etc."
               ghLink="https://github.com/alexislam0207/news-server"
-              demoLink="https://alexis-news-server.onrender.com/api/articles"
+              demoLink="https://alexis-news-server.onrender.com/api/"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               description="A front-end news application created with React.js, Javascript, HTML and CSS. Users
               can access all the articles, filter and sort by different categories, post comment and delete their own comment etc."
               ghLink="https://github.com/alexislam0207/Northcoders-news"
-              demoLink="https://github.com/alexislam0207/Northcoders-news"
+              demoLink="https://alexis-northcoders-news.netlify.app/"
             />
           </Col>
         </Row>

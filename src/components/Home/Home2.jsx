@@ -16,14 +16,14 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            A multicultural university graduate with 6 years of professional experience across different industries in Manchester, UK.<br />
-              <br />Raised in Hong Kong and received higher education in the United States.
+            A multicultural university graduate with 6 years of work experience in <b className="purple">Manchester, UK</b>.<br />
+              <br />Raised in <b className="purple">Hong Kong</b> and received higher education in the <b className="purple">United States</b>.
               <br />
               <br />
-              A passion for problem-solving led me to start a 13-weeks full-time software development course with Northcoders. During the course, I gained a solid understanding of programming fundamentals and applied my knowledge in creating projects.
+              A passion for problem-solving led me to start a full-time software development course with <b className="purple">Northcoders</b> where I gained a solid understanding of programming fundamentals and applied my knowledge in creating projects.
               <br />
               <br />
-              I am seeking new opportunities and am open to exploring different possibilities.
+              I am open to opportunities.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
