@@ -22,8 +22,9 @@ function Projects() {
               imgPath={newServer}
               isBlog={false}
               title="News-server"
-              description="A back-end news application created with SQL, PSQL, Express, Jest, Supertest, and Javascript. Users
-              can access and amend data about topics, articles, comments, etc."
+              description="A comprehensive and versatile back-end server for news data, users
+              can access and amend data about articles and comments etc."
+              skills="PSQL | Express | Jest | Supertest | Javascript"
               ghLink="https://github.com/alexislam0207/news-server"
               demoLink="https://alexis-news-server.onrender.com/api/"
             />
@@ -34,8 +35,9 @@ function Projects() {
               imgPath={comingSoon}
               isBlog={false}
               title="Northcoders-news"
-              description="A front-end news application created with React.js, Javascript, HTML and CSS. Users
-              can access all the articles, filter and sort by different categories, post comment and delete their own comment etc."
+              description="A front-end website that is implemented based on the news server, designed with UI, UX, 
+              and responsiveness in mind."
+              skills="React.js | Javascript | HTML | CSS"
               ghLink="https://github.com/alexislam0207/Northcoders-news"
               demoLink="https://alexis-northcoders-news.netlify.app/"
             />

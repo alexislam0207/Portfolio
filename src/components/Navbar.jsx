@@ -22,7 +22,7 @@ function NavBar() {
       updateNavbar(false);
     }
   }
-
+const name="<Alexis Lam>"
   window.addEventListener("scroll", scrollHandler);
 
   return (
@@ -34,7 +34,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" id="nav_name">
-          Alexis Lam
+          {name}
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
