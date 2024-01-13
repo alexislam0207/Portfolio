@@ -8,11 +8,14 @@ import {
 import {
   SiPostgresql,
   SiJest,
-  SiExpress
+  SiExpress,
+  SiFirebase
 } from "react-icons/si";
 import { PiFileSql } from "react-icons/pi";
 import { TiHtml5 } from "react-icons/ti";
 import { FaGit, FaCss3Alt } from "react-icons/fa";
+import { TbBrandReactNative } from "react-icons/tb";
+
 
 
 
@@ -29,6 +32,11 @@ function Techstack() {
         <p className="skill_name">Node.js</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <TbBrandReactNative />
+        <p className="skill_name">React Native</p>
+
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiReact />
         <p className="skill_name">React.js</p>
 
@@ -41,6 +49,11 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <FaCss3Alt />
         <p className="skill_name">CSS</p>
+
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFirebase />
+        <p className="skill_name">Firebase</p>
 
       </Col>
       <Col xs={4} md={2} className="tech-icons">
